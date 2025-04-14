@@ -6,3 +6,5 @@ seaborn
 matplotlib
 openpyxl
 xgboost
+lightgbm
+category_encoders
